@@ -113,6 +113,7 @@ brew cask install visual-studio-code
 mkdir ~/.nvm
 brew install nvm                                                                                     # choose your version of npm
 nvm install node                                                                                     # "node" is an alias for the latest version
+brew install yarn
 {
   echo "export NVM_DIR=\"$HOME/.nvm\""
   echo '[ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm'
