@@ -5,6 +5,7 @@
 
 
 This script allow you to install all the tools you need for setting up your dev environnement on your brand new mac.
+
 Blogpost: https://medium.com/macoclock/set-up-your-mac-for-development-in-2020-fe38829c8b1f
 
 # Launch installation
