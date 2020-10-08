@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -x
+
 # Create a folder who contains downloaded things for the setup
 INSTALL_FOLDER=~/.macsetup
 mkdir -p $INSTALL_FOLDER
