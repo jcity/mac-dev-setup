@@ -8,6 +8,8 @@ This script allow you to install all the tools you need for setting up your dev 
 
 Blogpost: https://medium.com/macoclock/set-up-your-mac-for-development-in-2020-fe38829c8b1f
 
+Also helpful: https://medium.com/tech-explained/4-simple-steps-to-create-an-awesome-terminal-experience-on-your-mac-70bd7a0e1b59
+
 # Launch installation
 ```shell
 curl https://raw.githubusercontent.com/thomaspoignant/mac-dev-setup/master/src/mac-dev-setup.sh | bash
